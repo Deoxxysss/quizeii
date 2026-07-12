@@ -1,5 +1,4 @@
 import random
-import time
 categories = ["Python", "Science", "Anime", "History", "Gaming"]
 
 print("Categories available:-")

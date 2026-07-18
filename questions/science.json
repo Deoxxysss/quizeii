@@ -1,0 +1,102 @@
+[
+    {
+        "question": "What is the chemical symbol for gold?",
+        "options": [
+            "A. Ag",
+            "B. Au",
+            "C. Gd",
+            "D. Go"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Which planet is known as the Red Planet?",
+        "options": [
+            "A. Venus",
+            "B. Mars",
+            "C. Jupiter",
+            "D. Mercury"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "What is the powerhouse of the cell?",
+        "options": [
+            "A. Nucleus",
+            "B. Ribosome",
+            "C. Mitochondria",
+            "D. Chloroplast"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "What is the speed of light in a vacuum?",
+        "options": [
+            "A. 3 × 10⁸ m/s",
+            "B. 3 × 10⁶ m/s",
+            "C. 3 × 10⁵ km/s",
+            "D. Both A and C"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "Which gas do plants absorb from the atmosphere during photosynthesis?",
+        "options": [
+            "A. Oxygen",
+            "B. Nitrogen",
+            "C. Carbon dioxide",
+            "D. Hydrogen"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "What is H₂O commonly known as?",
+        "options": [
+            "A. Hydrogen peroxide",
+            "B. Water",
+            "C. Oxygen",
+            "D. Hydrochloric acid"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Which force keeps the planets in orbit around the Sun?",
+        "options": [
+            "A. Magnetic force",
+            "B. Friction",
+            "C. Gravity",
+            "D. Nuclear force"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "Which vitamin is produced in the skin when exposed to sunlight?",
+        "options": [
+            "A. Vitamin A",
+            "B. Vitamin B12",
+            "C. Vitamin C",
+            "D. Vitamin D"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "What is the hardest natural substance on Earth?",
+        "options": [
+            "A. Iron",
+            "B. Quartz",
+            "C. Diamond",
+            "D. Graphite"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "What is the SI unit of force?",
+        "options": [
+            "A. Joule",
+            "B. Pascal",
+            "C. Newton",
+            "D. Watt"
+        ],
+        "answer": "C"
+    }
+]

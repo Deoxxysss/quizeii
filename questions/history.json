@@ -1,0 +1,102 @@
+[
+    {
+        "question": "Who was the first President of the United States?",
+        "options": [
+            "A. Abraham Lincoln",
+            "B. Thomas Jefferson",
+            "C. George Washington",
+            "D. John Adams"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "In which year did World War II end?",
+        "options": [
+            "A. 1943",
+            "B. 1944",
+            "C. 1945",
+            "D. 1946"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "Which civilization built the pyramids of Giza?",
+        "options": [
+            "A. Romans",
+            "B. Greeks",
+            "C. Egyptians",
+            "D. Persians"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "Who discovered America in 1492?",
+        "options": [
+            "A. Vasco da Gama",
+            "B. Christopher Columbus",
+            "C. Ferdinand Magellan",
+            "D. Marco Polo"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Which wall fell in 1989, symbolizing the end of the Cold War?",
+        "options": [
+            "A. Great Wall of China",
+            "B. Berlin Wall",
+            "C. Hadrian's Wall",
+            "D. Western Wall"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Who was known as the 'Iron Lady'?",
+        "options": [
+            "A. Margaret Thatcher",
+            "B. Queen Elizabeth II",
+            "C. Indira Gandhi",
+            "D. Angela Merkel"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "Which empire was ruled by Julius Caesar?",
+        "options": [
+            "A. Greek Empire",
+            "B. Roman Republic",
+            "C. Roman Empire",
+            "D. Ottoman Empire"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "Who was the leader of Nazi Germany during World War II?",
+        "options": [
+            "A. Benito Mussolini",
+            "B. Joseph Stalin",
+            "C. Winston Churchill",
+            "D. Adolf Hitler"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "Which famous ship sank on its maiden voyage in 1912?",
+        "options": [
+            "A. Britannic",
+            "B. Lusitania",
+            "C. Titanic",
+            "D. Queen Mary"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "Which Indian emperor embraced Buddhism after the Kalinga War?",
+        "options": [
+            "A. Chandragupta Maurya",
+            "B. Ashoka",
+            "C. Akbar",
+            "D. Harsha"
+        ],
+        "answer": "B"
+    }
+]

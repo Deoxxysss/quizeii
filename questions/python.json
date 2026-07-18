@@ -1,0 +1,102 @@
+[
+    {
+        "question": "Who created Python?",
+        "options": [
+            "A. James Gosling",
+            "B. Guido van Rossum",
+            "C. Dennis Ritchie",
+            "D. Bjarne Stroustrup"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Which keyword is used to define a function?",
+        "options": [
+            "A. function",
+            "B. define",
+            "C. def",
+            "D. fun"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "Which data type is immutable?",
+        "options": [
+            "A. List",
+            "B. Dictionary",
+            "C. Set",
+            "D. Tuple"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "Which symbol starts a comment in Python?",
+        "options": [
+            "A. //",
+            "B. #",
+            "C. /*",
+            "D. --"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "What is the output of len('Python')?",
+        "options": [
+            "A. 5",
+            "B. 6",
+            "C. 7",
+            "D. 8"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Which loop is used to iterate over a sequence?",
+        "options": [
+            "A. for",
+            "B. do",
+            "C. repeat",
+            "D. until"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "Which function converts a string to an integer?",
+        "options": [
+            "A. float()",
+            "B. str()",
+            "C. int()",
+            "D. bool()"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "Which operator is used for exponentiation?",
+        "options": [
+            "A. ^",
+            "B. **",
+            "C. //",
+            "D. %"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Which keyword exits a loop?",
+        "options": [
+            "A. stop",
+            "B. break",
+            "C. exit",
+            "D. quit"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Which collection stores key-value pairs?",
+        "options": [
+            "A. List",
+            "B. Tuple",
+            "C. Dictionary",
+            "D. Set"
+        ],
+        "answer": "C"
+    }
+]

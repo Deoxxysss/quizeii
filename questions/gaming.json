@@ -1,0 +1,102 @@
+[
+    {
+        "question": "Which company developed Minecraft?",
+        "options": [
+            "A. Rockstar Games",
+            "B. Mojang Studios",
+            "C. Epic Games",
+            "D. Valve"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "In PUBG, how many players can participate in a standard Battle Royale match?",
+        "options": [
+            "A. 50",
+            "B. 75",
+            "C. 100",
+            "D. 150"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "Which game features the character Steve?",
+        "options": [
+            "A. Terraria",
+            "B. Roblox",
+            "C. Minecraft",
+            "D. Fortnite"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "Which company publishes the Grand Theft Auto (GTA) series?",
+        "options": [
+            "A. Ubisoft",
+            "B. Electronic Arts",
+            "C. Rockstar Games",
+            "D. Activision"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "What is the highest rank in Valorant?",
+        "options": [
+            "A. Immortal",
+            "B. Radiant",
+            "C. Ascendant",
+            "D. Diamond"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Which Pokémon is known as the mascot of the Pokémon franchise?",
+        "options": [
+            "A. Charizard",
+            "B. Eevee",
+            "C. Pikachu",
+            "D. Bulbasaur"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "Which game series features the character Master Chief?",
+        "options": [
+            "A. Halo",
+            "B. Call of Duty",
+            "C. Doom",
+            "D. Battlefield"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "Which company developed the Counter-Strike series?",
+        "options": [
+            "A. Riot Games",
+            "B. Valve",
+            "C. Blizzard Entertainment",
+            "D. Ubisoft"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "In Clash of Clans, what is the maximum Town Hall level as of 2026?",
+        "options": [
+            "A. 16",
+            "B. 17",
+            "C. 18",
+            "D. 19"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "Which game popularized the Battle Royale genre worldwide in 2017?",
+        "options": [
+            "A. Apex Legends",
+            "B. PUBG: Battlegrounds",
+            "C. Fortnite",
+            "D. Call of Duty: Warzone"
+        ],
+        "answer": "B"
+    }
+]

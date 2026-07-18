@@ -1,0 +1,102 @@
+[
+    {
+        "question": "Who is the captain of the Straw Hat Pirates?",
+        "options": [
+            "A. Roronoa Zoro",
+            "B. Monkey D. Luffy",
+            "C. Portgas D. Ace",
+            "D. Sanji"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "In Naruto, what is Naruto Uzumaki's dream?",
+        "options": [
+            "A. Become Hokage",
+            "B. Become a Jonin",
+            "C. Defeat Sasuke",
+            "D. Find the One Piece"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "Which anime features the Death Note notebook?",
+        "options": [
+            "A. Bleach",
+            "B. Attack on Titan",
+            "C. Death Note",
+            "D. Tokyo Ghoul"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "Who is the main protagonist of Attack on Titan?",
+        "options": [
+            "A. Levi Ackerman",
+            "B. Armin Arlert",
+            "C. Eren Yeager",
+            "D. Erwin Smith"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "Which anime is about alchemy and the Elric brothers?",
+        "options": [
+            "A. Black Clover",
+            "B. Fullmetal Alchemist: Brotherhood",
+            "C. Fairy Tail",
+            "D. Hunter x Hunter"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Who is known as the 'Strongest Sorcerer' in Jujutsu Kaisen?",
+        "options": [
+            "A. Yuji Itadori",
+            "B. Yuta Okkotsu",
+            "C. Satoru Gojo",
+            "D. Sukuna"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "In Demon Slayer, what is Nezuko Kamado's relationship to Tanjiro?",
+        "options": [
+            "A. Friend",
+            "B. Cousin",
+            "C. Sister",
+            "D. Mother"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "Which Pokémon is Ash Ketchum's first and most iconic partner?",
+        "options": [
+            "A. Charizard",
+            "B. Bulbasaur",
+            "C. Pikachu",
+            "D. Squirtle"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "Who is the author of One Piece?",
+        "options": [
+            "A. Masashi Kishimoto",
+            "B. Tite Kubo",
+            "C. Eiichiro Oda",
+            "D. Akira Toriyama"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "What is the name of Goku's Saiyan home planet?",
+        "options": [
+            "A. Planet Namek",
+            "B. Planet Vegeta",
+            "C. Planet Yardrat",
+            "D. Planet Earth"
+        ],
+        "answer": "B"
+    }
+]

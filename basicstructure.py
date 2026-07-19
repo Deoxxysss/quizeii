@@ -2,8 +2,11 @@ def play_game():
     import random
     from pathlib import Path
     import json
+    import csv
 
     BASE_DIR = Path(__file__).parent
+    
+    name = input('Enter your name:')
 
     def load_questions(category):
         path = BASE_DIR / "questions" / f"{category}.json"
@@ -70,5 +73,17 @@ def play_game():
     else:
         print("📚 Grade: F")
     
-    if __name__ == "__main__":
-        play_game()
+    SCORE_FILE = BASE_DIR / "data" / "score.csv"
+
+    file_exists = SCORE_FILE.exists()
+
+    with open(SCORE_FILE, "a", newline="", encoding="utf-8") as file:
+        writer = csv.writer(file)
+
+        if not file_exists:
+            writer.writerow(["Name", "Score", "Category"])
+
+        writer.writerow([name, score, z.capitalize()])
+
+if __name__ == "__main__":
+    play_game()

@@ -1,5 +1,6 @@
 # Like a main menu of the game
 from basicstructure import play_game
+from leaderboard import leaderboard
 def Menu():
     print("=====WELCOME TO QUIZEII=====")
     print()
@@ -18,7 +19,10 @@ def Menu():
                 break
                 
         elif s == "leaderboard":
-            pass
+            leaderboard()
+            i = input("Enter back to go to the main screen→:")
+            if i == "back":
+                Menu()
         elif s == "break":
             break
         else:

@@ -80,11 +80,8 @@ python basicstructure.py
 
 * 🎵 Sound effects
 * 🖼️ Graphical User Interface (Tkinter)
-* 🏅 Leaderboard and high scores
-* 💾 Save player progress
 * 📊 Difficulty levels
 * 🌐 Online multiplayer mode
-* 📁 Questions loaded from JSON files
 
 ---
 

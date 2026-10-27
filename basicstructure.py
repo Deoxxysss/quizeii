@@ -48,30 +48,30 @@ def play_game():
         ans = input("Enter your answer (A/B/C/D): ").upper()
 
         if ans == q["answer"]:
-            print("✅ Correct!")
+            print("Correct!")
             print()
             score += 1
         else:
             correct = ord(q["answer"]) - ord("A")
-            print(f"❌ Wrong! Correct answer: {q['options'][correct]}")
+            print(f" Wrong! Correct answer: {q['options'][correct]}")
             print()
 
     percentage = score / len(questions) * 100
 
-    print(f"\n🎉 Final Score: {score}/{len(questions)}")
+    print(f"\nFinal Score: {score}/{len(questions)}")
     print(f"Percentage: {percentage:.1f}%")
     if percentage == 100:
-        print("🏆 Grade: S")
+        print("Grade: S")
     elif percentage >= 90:
-        print("🌟 Grade: A")
+        print("Grade: A")
     elif percentage >= 80:
-        print("✨ Grade: B")
+        print("Grade: B")
     elif percentage >= 70:
-        print("👍 Grade: C")
+        print("Grade: C")
     elif percentage >= 60:
-        print("🙂 Grade: D")
+        print("Grade: D")
     else:
-        print("📚 Grade: F")
+        print("Grade: F")
     
     SCORE_FILE = BASE_DIR / "data" / "score.csv"
 
